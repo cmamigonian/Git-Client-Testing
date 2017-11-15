@@ -1,4 +1,4 @@
 # Git-Client-Testing
 Repo for testing git clients
 
-Testing commit with GitKraken
+Testing commit with GitKraken with a PR
